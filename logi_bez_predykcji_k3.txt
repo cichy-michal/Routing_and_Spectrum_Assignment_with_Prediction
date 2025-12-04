@@ -1,0 +1,92 @@
+Wczytywanie danych sieci
+Załadowano 28 miast
+Liczba węzłów: 28
+Liczba łączy: 82
+Załadowano instancję 110000_0: 1000 iteracji
+Załadowano 1 instancji
+
+Lista miast:
+  0: London (UK)
+  1: Paris (France)
+  2: Brussels (Belgium)
+  3: Amsterdam (Netherlends)
+  4: Lyon (France)
+  5: Zurich (Switzerlend)
+  6: Strasbourg (France)
+  7: Hamburg (Germany)
+  8: Frankfurt (Germany)
+  9: Milan (Germany)
+  10: Munich (Italy)
+  11: Berlin (Germany)
+  12: Rome (Italy)
+  13: Zagreb (Croatioa)
+  14: Vienna (Austria)
+  15: Prague (Czech)
+  16: Madrid (Spain)
+  17: Bordeaux (France)
+  18: Barcelona (Spain)
+  19: Dublin (Irlend)
+  20: Glasgow (UK)
+  21: Athens (Greece)
+  22: Belgrade (Serbia)
+  23: Budapest (Hungry)
+  24: Warsaw (Poland)
+  25: Copenhagen (Denmark)
+  26: Stockholm (Sweden)
+  27: Oslo (Norway)
+
+Połączenia w sieci (odległości != 0):
+  London <-> Paris: 514 km
+  London <-> Amsterdam: 540 km
+  London <-> Dublin: 690 km
+  Paris <-> Brussels: 393 km
+  Paris <-> Lyon: 594 km
+  Paris <-> Strasbourg: 600 km
+  Paris <-> Bordeaux: 747 km
+  Brussels <-> Amsterdam: 259 km
+  Brussels <-> Frankfurt: 474 km
+  Amsterdam <-> Hamburg: 552 km
+  Amsterdam <-> Glasgow: 1067 km
+  Lyon <-> Zurich: 507 km
+  Lyon <-> Barcelona: 796 km
+  Zurich <-> Strasbourg: 218 km
+  Zurich <-> Milan: 327 km
+  Strasbourg <-> Frankfurt: 271 km
+  Hamburg <-> Frankfurt: 592 km
+  Hamburg <-> Berlin: 381 km
+  Frankfurt <-> Munich: 456 km
+  Milan <-> Munich: 522 km
+  Milan <-> Rome: 720 km
+  Munich <-> Berlin: 757 km
+  Munich <-> Vienna: 534 km
+  Berlin <-> Prague: 420 km
+  Berlin <-> Warsaw: 775 km
+  Berlin <-> Copenhagen: 540 km
+  Rome <-> Zagreb: 783 km
+  Rome <-> Athens: 1500 km
+  Zagreb <-> Vienna: 400 km
+  Zagreb <-> Belgrade: 551 km
+  Vienna <-> Prague: 376 km
+  Prague <-> Budapest: 668 km
+  Madrid <-> Bordeaux: 834 km
+  Madrid <-> Barcelona: 760 km
+  Dublin <-> Glasgow: 462 km
+  Athens <-> Belgrade: 1209 km
+  Belgrade <-> Budapest: 474 km
+  Budapest <-> Warsaw: 819 km
+  Warsaw <-> Stockholm: 1213 km
+  Copenhagen <-> Oslo: 722 km
+  Stockholm <-> Oslo: 623 km
+
+Łączna liczba połączeń dwukierunkowych: 41
+
+Informacje o instancjach
+  110000_0: 1000 iteracji, 362313 żądań
+Rozpoczynanie symulacji dla instancji 110000_0
+
+Wyniki dla instancji 110000_0:
+  Czas wykonania: 443.06 s
+  Łączna liczba żądań: 362313
+  Zablokowane żądania: 122583
+  Prawdopodobieństwo blokady (BP): 0.3383
+  Średnie wykorzystanie widma: 0.5893

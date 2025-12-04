@@ -1,0 +1,357 @@
+Wczytywanie danych sieci
+Załadowano 28 miast
+Liczba węzłów: 28
+Liczba łączy: 82
+Załadowano instancję 100000_0: 1000 iteracji
+Załadowano instancję 100000_1: 1000 iteracji
+Załadowano instancję 100000_2: 1000 iteracji
+Załadowano instancję 100000_3: 1000 iteracji
+Załadowano instancję 100000_4: 1000 iteracji
+Załadowano instancję 110000_0: 1000 iteracji
+Załadowano instancję 110000_1: 1000 iteracji
+Załadowano instancję 110000_2: 1000 iteracji
+Załadowano instancję 110000_3: 1000 iteracji
+Załadowano instancję 110000_4: 1000 iteracji
+Załadowano instancję 70000_0: 1000 iteracji
+Załadowano instancję 70000_1: 1000 iteracji
+Załadowano instancję 70000_2: 1000 iteracji
+Załadowano instancję 70000_3: 1000 iteracji
+Załadowano instancję 70000_4: 1000 iteracji
+Załadowano instancję 80000_0: 1000 iteracji
+Załadowano instancję 80000_1: 1000 iteracji
+Załadowano instancję 80000_2: 1000 iteracji
+Załadowano instancję 80000_3: 1000 iteracji
+Załadowano instancję 80000_4: 1000 iteracji
+Załadowano instancję 90000_0: 1000 iteracji
+Załadowano instancję 90000_1: 1000 iteracji
+Załadowano instancję 90000_2: 1000 iteracji
+Załadowano instancję 90000_3: 1000 iteracji
+Załadowano instancję 90000_4: 1000 iteracji
+Załadowano 25 instancji
+
+Lista miast:
+  0: London (UK)
+  1: Paris (France)
+  2: Brussels (Belgium)
+  3: Amsterdam (Netherlends)
+  4: Lyon (France)
+  5: Zurich (Switzerlend)
+  6: Strasbourg (France)
+  7: Hamburg (Germany)
+  8: Frankfurt (Germany)
+  9: Milan (Germany)
+  10: Munich (Italy)
+  11: Berlin (Germany)
+  12: Rome (Italy)
+  13: Zagreb (Croatioa)
+  14: Vienna (Austria)
+  15: Prague (Czech)
+  16: Madrid (Spain)
+  17: Bordeaux (France)
+  18: Barcelona (Spain)
+  19: Dublin (Irlend)
+  20: Glasgow (UK)
+  21: Athens (Greece)
+  22: Belgrade (Serbia)
+  23: Budapest (Hungry)
+  24: Warsaw (Poland)
+  25: Copenhagen (Denmark)
+  26: Stockholm (Sweden)
+  27: Oslo (Norway)
+
+Połączenia w sieci (odległości != 0):
+  London <-> Paris: 514 km
+  London <-> Amsterdam: 540 km
+  London <-> Dublin: 690 km
+  Paris <-> Brussels: 393 km
+  Paris <-> Lyon: 594 km
+  Paris <-> Strasbourg: 600 km
+  Paris <-> Bordeaux: 747 km
+  Brussels <-> Amsterdam: 259 km
+  Brussels <-> Frankfurt: 474 km
+  Amsterdam <-> Hamburg: 552 km
+  Amsterdam <-> Glasgow: 1067 km
+  Lyon <-> Zurich: 507 km
+  Lyon <-> Barcelona: 796 km
+  Zurich <-> Strasbourg: 218 km
+  Zurich <-> Milan: 327 km
+  Strasbourg <-> Frankfurt: 271 km
+  Hamburg <-> Frankfurt: 592 km
+  Hamburg <-> Berlin: 381 km
+  Frankfurt <-> Munich: 456 km
+  Milan <-> Munich: 522 km
+  Milan <-> Rome: 720 km
+  Munich <-> Berlin: 757 km
+  Munich <-> Vienna: 534 km
+  Berlin <-> Prague: 420 km
+  Berlin <-> Warsaw: 775 km
+  Berlin <-> Copenhagen: 540 km
+  Rome <-> Zagreb: 783 km
+  Rome <-> Athens: 1500 km
+  Zagreb <-> Vienna: 400 km
+  Zagreb <-> Belgrade: 551 km
+  Vienna <-> Prague: 376 km
+  Prague <-> Budapest: 668 km
+  Madrid <-> Bordeaux: 834 km
+  Madrid <-> Barcelona: 760 km
+  Dublin <-> Glasgow: 462 km
+  Athens <-> Belgrade: 1209 km
+  Belgrade <-> Budapest: 474 km
+  Budapest <-> Warsaw: 819 km
+  Warsaw <-> Stockholm: 1213 km
+  Copenhagen <-> Oslo: 722 km
+  Stockholm <-> Oslo: 623 km
+
+Łączna liczba połączeń dwukierunkowych: 41
+
+Informacje o instancjach
+  100000_0: 1000 iteracji, 351536 żądań
+  100000_1: 1000 iteracji, 349731 żądań
+  100000_2: 1000 iteracji, 351377 żądań
+  100000_3: 1000 iteracji, 349582 żądań
+  100000_4: 1000 iteracji, 349802 żądań
+  110000_0: 1000 iteracji, 362313 żądań
+  110000_1: 1000 iteracji, 361389 żądań
+  110000_2: 1000 iteracji, 360250 żądań
+  110000_3: 1000 iteracji, 361321 żądań
+  110000_4: 1000 iteracji, 360184 żądań
+  70000_0: 1000 iteracji, 309726 żądań
+  70000_1: 1000 iteracji, 307695 żądań
+  70000_2: 1000 iteracji, 310601 żądań
+  70000_3: 1000 iteracji, 307490 żądań
+  70000_4: 1000 iteracji, 311226 żądań
+  80000_0: 1000 iteracji, 324140 żądań
+  80000_1: 1000 iteracji, 324196 żądań
+  80000_2: 1000 iteracji, 325031 żądań
+  80000_3: 1000 iteracji, 322968 żądań
+  80000_4: 1000 iteracji, 326017 żądań
+  90000_0: 1000 iteracji, 338027 żądań
+  90000_1: 1000 iteracji, 338081 żądań
+  90000_2: 1000 iteracji, 336758 żądań
+  90000_3: 1000 iteracji, 337820 żądań
+  90000_4: 1000 iteracji, 341000 żądań
+
+=== Rozpoczynanie symulacji dla instancji 100000_0 ===
+Rozpoczynanie symulacji dla instancji 100000_0
+
+Wyniki dla instancji 100000_0:
+  Łączna liczba żądań: 351536
+  Zablokowane żądania: 151740
+  Prawdopodobieństwo blokady (BP): 0.4316
+  Średnie wykorzystanie widma: 0.5551
+
+=== Rozpoczynanie symulacji dla instancji 100000_1 ===
+Rozpoczynanie symulacji dla instancji 100000_1
+
+Wyniki dla instancji 100000_1:
+  Łączna liczba żądań: 349731
+  Zablokowane żądania: 151500
+  Prawdopodobieństwo blokady (BP): 0.4332
+  Średnie wykorzystanie widma: 0.5626
+
+=== Rozpoczynanie symulacji dla instancji 100000_2 ===
+Rozpoczynanie symulacji dla instancji 100000_2
+
+Wyniki dla instancji 100000_2:
+  Łączna liczba żądań: 351377
+  Zablokowane żądania: 153349
+  Prawdopodobieństwo blokady (BP): 0.4364
+  Średnie wykorzystanie widma: 0.5532
+
+=== Rozpoczynanie symulacji dla instancji 100000_3 ===
+Rozpoczynanie symulacji dla instancji 100000_3
+
+Wyniki dla instancji 100000_3:
+  Łączna liczba żądań: 349582
+  Zablokowane żądania: 151193
+  Prawdopodobieństwo blokady (BP): 0.4325
+  Średnie wykorzystanie widma: 0.5503
+
+=== Rozpoczynanie symulacji dla instancji 100000_4 ===
+Rozpoczynanie symulacji dla instancji 100000_4
+
+Wyniki dla instancji 100000_4:
+  Łączna liczba żądań: 349802
+  Zablokowane żądania: 151027
+  Prawdopodobieństwo blokady (BP): 0.4317
+  Średnie wykorzystanie widma: 0.5523
+
+=== Rozpoczynanie symulacji dla instancji 110000_0 ===
+Rozpoczynanie symulacji dla instancji 110000_0
+
+Wyniki dla instancji 110000_0:
+  Łączna liczba żądań: 362313
+  Zablokowane żądania: 162067
+  Prawdopodobieństwo blokady (BP): 0.4473
+  Średnie wykorzystanie widma: 0.5547
+
+=== Rozpoczynanie symulacji dla instancji 110000_1 ===
+Rozpoczynanie symulacji dla instancji 110000_1
+
+Wyniki dla instancji 110000_1:
+  Łączna liczba żądań: 361389
+  Zablokowane żądania: 161183
+  Prawdopodobieństwo blokady (BP): 0.4460
+  Średnie wykorzystanie widma: 0.5572
+
+=== Rozpoczynanie symulacji dla instancji 110000_2 ===
+Rozpoczynanie symulacji dla instancji 110000_2
+
+Wyniki dla instancji 110000_2:
+  Łączna liczba żądań: 360250
+  Zablokowane żądania: 159724
+  Prawdopodobieństwo blokady (BP): 0.4434
+  Średnie wykorzystanie widma: 0.5591
+
+=== Rozpoczynanie symulacji dla instancji 110000_3 ===
+Rozpoczynanie symulacji dla instancji 110000_3
+
+Wyniki dla instancji 110000_3:
+  Łączna liczba żądań: 361321
+  Zablokowane żądania: 161930
+  Prawdopodobieństwo blokady (BP): 0.4482
+  Średnie wykorzystanie widma: 0.5521
+
+=== Rozpoczynanie symulacji dla instancji 110000_4 ===
+Rozpoczynanie symulacji dla instancji 110000_4
+
+Wyniki dla instancji 110000_4:
+  Łączna liczba żądań: 360184
+  Zablokowane żądania: 160414
+  Prawdopodobieństwo blokady (BP): 0.4454
+  Średnie wykorzystanie widma: 0.5578
+
+=== Rozpoczynanie symulacji dla instancji 70000_0 ===
+Rozpoczynanie symulacji dla instancji 70000_0
+
+Wyniki dla instancji 70000_0:
+  Łączna liczba żądań: 309726
+  Zablokowane żądania: 118387
+  Prawdopodobieństwo blokady (BP): 0.3822
+  Średnie wykorzystanie widma: 0.5325
+
+=== Rozpoczynanie symulacji dla instancji 70000_1 ===
+Rozpoczynanie symulacji dla instancji 70000_1
+
+Wyniki dla instancji 70000_1:
+  Łączna liczba żądań: 307695
+  Zablokowane żądania: 114509
+  Prawdopodobieństwo blokady (BP): 0.3722
+  Średnie wykorzystanie widma: 0.5275
+
+=== Rozpoczynanie symulacji dla instancji 70000_2 ===
+Rozpoczynanie symulacji dla instancji 70000_2
+
+Wyniki dla instancji 70000_2:
+  Łączna liczba żądań: 310601
+  Zablokowane żądania: 119497
+  Prawdopodobieństwo blokady (BP): 0.3847
+  Średnie wykorzystanie widma: 0.5420
+
+=== Rozpoczynanie symulacji dla instancji 70000_3 ===
+Rozpoczynanie symulacji dla instancji 70000_3
+
+Wyniki dla instancji 70000_3:
+  Łączna liczba żądań: 307490
+  Zablokowane żądania: 114794
+  Prawdopodobieństwo blokady (BP): 0.3733
+  Średnie wykorzystanie widma: 0.5342
+
+=== Rozpoczynanie symulacji dla instancji 70000_4 ===
+Rozpoczynanie symulacji dla instancji 70000_4
+
+Wyniki dla instancji 70000_4:
+  Łączna liczba żądań: 311226
+  Zablokowane żądania: 119382
+  Prawdopodobieństwo blokady (BP): 0.3836
+  Średnie wykorzystanie widma: 0.5410
+
+=== Rozpoczynanie symulacji dla instancji 80000_0 ===
+Rozpoczynanie symulacji dla instancji 80000_0
+
+Wyniki dla instancji 80000_0:
+  Łączna liczba żądań: 324140
+  Zablokowane żądania: 129071
+  Prawdopodobieństwo blokady (BP): 0.3982
+  Średnie wykorzystanie widma: 0.5482
+
+=== Rozpoczynanie symulacji dla instancji 80000_1 ===
+Rozpoczynanie symulacji dla instancji 80000_1
+
+Wyniki dla instancji 80000_1:
+  Łączna liczba żądań: 324196
+  Zablokowane żądania: 130331
+  Prawdopodobieństwo blokady (BP): 0.4020
+  Średnie wykorzystanie widma: 0.5453
+
+=== Rozpoczynanie symulacji dla instancji 80000_2 ===
+Rozpoczynanie symulacji dla instancji 80000_2
+
+Wyniki dla instancji 80000_2:
+  Łączna liczba żądań: 325031
+  Zablokowane żądania: 131632
+  Prawdopodobieństwo blokady (BP): 0.4050
+  Średnie wykorzystanie widma: 0.5453
+
+=== Rozpoczynanie symulacji dla instancji 80000_3 ===
+Rozpoczynanie symulacji dla instancji 80000_3
+
+Wyniki dla instancji 80000_3:
+  Łączna liczba żądań: 322968
+  Zablokowane żądania: 129228
+  Prawdopodobieństwo blokady (BP): 0.4001
+  Średnie wykorzystanie widma: 0.5410
+
+=== Rozpoczynanie symulacji dla instancji 80000_4 ===
+Rozpoczynanie symulacji dla instancji 80000_4
+
+Wyniki dla instancji 80000_4:
+  Łączna liczba żądań: 326017
+  Zablokowane żądania: 132044
+  Prawdopodobieństwo blokady (BP): 0.4050
+  Średnie wykorzystanie widma: 0.5377
+
+=== Rozpoczynanie symulacji dla instancji 90000_0 ===
+Rozpoczynanie symulacji dla instancji 90000_0
+
+Wyniki dla instancji 90000_0:
+  Łączna liczba żądań: 338027
+  Zablokowane żądania: 140884
+  Prawdopodobieństwo blokady (BP): 0.4168
+  Średnie wykorzystanie widma: 0.5447
+
+=== Rozpoczynanie symulacji dla instancji 90000_1 ===
+Rozpoczynanie symulacji dla instancji 90000_1
+
+Wyniki dla instancji 90000_1:
+  Łączna liczba żądań: 338081
+  Zablokowane żądania: 140451
+  Prawdopodobieństwo blokady (BP): 0.4154
+  Średnie wykorzystanie widma: 0.5446
+
+=== Rozpoczynanie symulacji dla instancji 90000_2 ===
+Rozpoczynanie symulacji dla instancji 90000_2
+
+Wyniki dla instancji 90000_2:
+  Łączna liczba żądań: 336758
+  Zablokowane żądania: 139093
+  Prawdopodobieństwo blokady (BP): 0.4130
+  Średnie wykorzystanie widma: 0.5457
+
+=== Rozpoczynanie symulacji dla instancji 90000_3 ===
+Rozpoczynanie symulacji dla instancji 90000_3
+
+Wyniki dla instancji 90000_3:
+  Łączna liczba żądań: 337820
+  Zablokowane żądania: 140338
+  Prawdopodobieństwo blokady (BP): 0.4154
+  Średnie wykorzystanie widma: 0.5478
+
+=== Rozpoczynanie symulacji dla instancji 90000_4 ===
+Rozpoczynanie symulacji dla instancji 90000_4
+
+Wyniki dla instancji 90000_4:
+  Łączna liczba żądań: 341000
+  Zablokowane żądania: 144685
+  Prawdopodobieństwo blokady (BP): 0.4243
+  Średnie wykorzystanie widma: 0.5509
